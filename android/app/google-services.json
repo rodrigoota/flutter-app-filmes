@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "871161602397",
+    "project_id": "app-filmes-rtyota",
+    "storage_bucket": "app-filmes-rtyota.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871161602397:android:ca276c258421ea1f5388b4",
+        "android_client_info": {
+          "package_name": "br.com.academiadoflutter.app_filmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871161602397-cccuj99202mb7ba604ih1183irsq53v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.academiadoflutter.app_filmes",
+            "certificate_hash": "455426c860affc6c3540ae9046718aba475ffc12"
+          }
+        },
+        {
+          "client_id": "871161602397-3es9v8022dvhb66riiftsr06f4d24lkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs725DYTM7feTYlNt5k_iZj4xlOH2fHOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871161602397-3es9v8022dvhb66riiftsr06f4d24lkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
