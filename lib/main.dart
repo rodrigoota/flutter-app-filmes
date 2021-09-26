@@ -9,6 +9,7 @@ import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:get/route_manager.dart';
 
 import 'application/bindings/application_bindings.dart';
+import 'modules/movie_detail/movie_detail_module.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -28,7 +29,8 @@ class MyApp extends StatelessWidget {
       getPages: [
         ...SplashModule().routers,
         ...LoginModule().routers,
-        ...HomeModule().routers
+        ...HomeModule().routers,
+        ...MovieDetailModule().routers
       ],
     );
   }
